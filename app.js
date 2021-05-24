@@ -6,5 +6,5 @@ app.listen(3000);
 
 //Routes
 app.get('/', (req,res)=>{
-    res.send("Server Up.")
+    res.send("Server Up")
 })
